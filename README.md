@@ -7,7 +7,7 @@ So what is the hook with deep learning? Why is everyone talking about it? What h
 ## 1980s
 
 * Deep learning would exist as it exists now if it was not for Geoffrey Hinton, David Rumelhart and Ronald Williams invention of the Backpropagation algorithm: \
-[Learning representations by back-propagating erros](http://www.cs.toronto.edu/~hinton/absps/naturebp.pdf), Hinton et al., 1986, Nature, 14500 citations\
+[Learning representations by back-propagating erros](http://www.cs.toronto.edu/~hinton/absps/naturebp.pdf), Hinton et al., 1986, Nature, 14500 citations (!)\
 From this point, it was possible to train arbitrarily deep feed-forward neural networks. 
 
 * A few years after, training deep recurrent nets was detailed in this paper: \
@@ -17,6 +17,9 @@ From this point, it was possible to train arbitrarily deep feed-forward neural n
 
 * The wake-sleep algorithm inspired the autoencoder type of neural networks: \
 [The wake-sleep algorithm for unsupervised neural networks](http://www.cs.toronto.edu/~fritz/absps/ws.pdf), Hinton et al., 1995, Science, 942 citations
+
+* LSTMs are actually a quite old invention: \
+[Long short-term memory](http://web.eecs.utk.edu/~itamar/courses/ECE-692/Bobby_paper1.pdf), Hochreiter et al., 1997, Neural Computation, 9811 citations
 
 ## 2000s
 
