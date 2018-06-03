@@ -11,9 +11,12 @@ So what is the hook with deep learning? Why is everyone talking about it? What h
 From this point, it was possible to train arbitrarily deep feed-forward neural networks. 
 
 * A few years after, training deep recurrent nets was detailed in this paper: \
-[A Learning algorithm for continually running fully recurrent neural networks](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.52.9724&rep=rep1&type=pdf), Williams et al., 1989, Neural Computation, 2913 citations
+[A learning algorithm for continually running fully recurrent neural networks](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.52.9724&rep=rep1&type=pdf), Williams et al., 1989, Neural Computation, 2913 citations
 
 ## 1990s
+
+* The wake-sleep algorithm inspired the autoencoder type of neural networks: 
+[Thw wake-sleep algorithm for unsupervised neural networks](http://www.cs.toronto.edu/~fritz/absps/ws.pdf), Hinton et al., 1995, Science, 942 citations
 
 ## 2000s
 
