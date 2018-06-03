@@ -15,8 +15,8 @@ From this point, it was possible to train arbitrarily deep feed-forward neural n
 
 ## 1990s
 
-* The wake-sleep algorithm inspired the autoencoder type of neural networks: 
-[Thw wake-sleep algorithm for unsupervised neural networks](http://www.cs.toronto.edu/~fritz/absps/ws.pdf), Hinton et al., 1995, Science, 942 citations
+* The wake-sleep algorithm inspired the autoencoder type of neural networks: \
+[The wake-sleep algorithm for unsupervised neural networks](http://www.cs.toronto.edu/~fritz/absps/ws.pdf), Hinton et al., 1995, Science, 942 citations
 
 ## 2000s
 
