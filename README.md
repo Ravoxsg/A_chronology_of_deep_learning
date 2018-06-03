@@ -7,19 +7,22 @@ So what is the hook with deep learning? Why is everyone talking about it? What h
 ## 1980s
 
 * Deep learning would exist as it exists now if it was not for Geoffrey Hinton, David Rumelhart and Ronald Williams invention of the Backpropagation algorithm: \
-[Learning representations by back-propagating erros](http://www.cs.toronto.edu/~hinton/absps/naturebp.pdf), Hinton et al., 1986, Nature, 14500 citations (!)\
+[Learning representations by back-propagating erros](http://www.cs.toronto.edu/~hinton/absps/naturebp.pdf), Hinton et al., 1986, Nature, **14500** citations (!)\
 From this point, it was possible to train arbitrarily deep feed-forward neural networks. 
 
 * A few years after, training deep recurrent nets was detailed in this paper: \
-[A learning algorithm for continually running fully recurrent neural networks](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.52.9724&rep=rep1&type=pdf), Williams et al., 1989, Neural Computation, 2913 citations
+[A learning algorithm for continually running fully recurrent neural networks](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.52.9724&rep=rep1&type=pdf), Williams et al., 1989, Neural Computation, **2913** citations
 
 ## 1990s
 
 * The wake-sleep algorithm inspired the autoencoder type of neural networks: \
-[The wake-sleep algorithm for unsupervised neural networks](http://www.cs.toronto.edu/~fritz/absps/ws.pdf), Hinton et al., 1995, Science, 942 citations
+[The wake-sleep algorithm for unsupervised neural networks](http://www.cs.toronto.edu/~fritz/absps/ws.pdf), Hinton et al., 1995, Science, **942** citations
+
+* Convolutional neural networks (CNNs) were developed in the early 1990s, mostly by Yann LeCun, and their broad application was described here: \
+[Convolutional neural networks for images, speech and time-series](https://www.researchgate.net/profile/Yann_Lecun/publication/2453996_Convolutional_Networks_for_Images_Speech_and_Time-Series/links/0deec519dfa2325502000000.pdf), Yann LeCun, Yoshua Bengio, 1995,The Handbook of Brain Theory and Neural Networks, **1550** citations
 
 * LSTMs are actually a quite old invention: \
-[Long short-term memory](http://web.eecs.utk.edu/~itamar/courses/ECE-692/Bobby_paper1.pdf), Hochreiter et al., 1997, Neural Computation, 9811 citations
+[Long short-term memory](http://web.eecs.utk.edu/~itamar/courses/ECE-692/Bobby_paper1.pdf), Hochreiter et al., 1997, Neural Computation, **9811** citations
 
 ## 2000s
 
