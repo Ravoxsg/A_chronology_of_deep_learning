@@ -6,4 +6,5 @@ So what is the hook with deep learning? Why is everyone talking about it? What h
 
 ## 1980s
 
-* Deep learning would exist as it exists now if it was not for Geoffrey Hinton, David Rumelhart and Ronald Williams invention of the Backpropagation algorithm: [Learning representations by back-propagating erros](http://www.cs.toronto.edu/~hinton/absps/naturebp.pdf), 1986, Nature, 14500 citations
+* Deep learning would exist as it exists now if it was not for Geoffrey Hinton, David Rumelhart and Ronald Williams invention of the Backpropagation algorithm: \\
+[Learning representations by back-propagating erros](http://www.cs.toronto.edu/~hinton/absps/naturebp.pdf), 1986, Nature, 14500 citations
