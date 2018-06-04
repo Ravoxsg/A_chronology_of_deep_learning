@@ -15,7 +15,7 @@ From this point, it was possible to train arbitrarily deep feed-forward neural n
 
 ## 1990s
 
-Despite promising breakthroughs in the late 1980s, in the late-1990s, AI entered a new *Winter era*, during the which there were few developments (especially compared to what happened in the 2010s). Deep learning approaches were discredited because of their poor-to-average performance, mostly because of lack of training data and computational power.
+Despite promising breakthroughs in the late 1980s, in the 1990s, AI entered a new *Winter era*, during the which there were few developments (especially compared to what happened in the 2010s). Deep learning approaches were discredited because of their poor-to-average performance, mostly because of lack of training data and computational power.
 
 * The wake-sleep algorithm inspired the autoencoder type of neural networks: \
 [The wake-sleep algorithm for unsupervised neural networks](http://www.cs.toronto.edu/~fritz/absps/ws.pdf), Hinton et al., 1995, Science, **942 citations**
