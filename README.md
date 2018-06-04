@@ -23,7 +23,7 @@ Despite promising breakthroughs in the late 1980s, in the 1990s, AI entered a ne
 * Convolutional neural networks (CNNs) were developed in the early 1990s, mostly by Yann LeCun, and their broad application was described here: \
 [Convolutional neural networks for images, speech and time-series](https://www.researchgate.net/profile/Yann_Lecun/publication/2453996_Convolutional_Networks_for_Images_Speech_and_Time-Series/links/0deec519dfa2325502000000.pdf), Yann LeCun & Yoshua Bengio, 1995, The Handbook of Brain Theory and Neural Networks, **1550 citations**
 
-* LSTMs are actually a quite old invention: \
+* LSTMs, still widely used today for sequence modeling, are actually quite an old invention: \
 [Long short-term memory](http://web.eecs.utk.edu/~itamar/courses/ECE-692/Bobby_paper1.pdf), Hochreiter et al., 1997, Neural Computation, **9811 citations**
 
 ## 2000s
