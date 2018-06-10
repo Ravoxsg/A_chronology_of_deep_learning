@@ -34,6 +34,9 @@ Despite promising breakthroughs in the late 1980s, in the 1990s, AI entered a ne
 * LSTMs, still widely used today for sequence modeling, are actually quite an old invention: \
 [Long short-term memory](http://web.eecs.utk.edu/~itamar/courses/ECE-692/Bobby_paper1.pdf), Hochreiter et al., 1997, Neural Computation, **9811 citations**
 
+* Roughly around the same time as LSTMs came the idea of training RNNs in *both directions*, meaning that hiddent states have access to input elements from the future: \
+[Bidirectional recurrent neural networks](https://www.researchgate.net/profile/Mike_Schuster/publication/3316656_Bidirectional_recurrent_neural_networks/links/56861d4008ae19758395f85c.pdf), Schuster et al., 1997, IEEE Transactions on Neural Processing, **1167 citations**
+
 ## 2000s
 
 This *AI Winter* continued until roughly 2006, when research in deep learning started to flourish again. 
