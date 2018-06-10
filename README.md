@@ -37,6 +37,9 @@ Despite promising breakthroughs in the late 1980s, in the 1990s, AI entered a ne
 * Roughly around the same time as LSTMs came the idea of training RNNs in *both directions*, meaning that hiddent states have access to input elements from the future: \
 [Bidirectional recurrent neural networks](https://www.researchgate.net/profile/Mike_Schuster/publication/3316656_Bidirectional_recurrent_neural_networks/links/56861d4008ae19758395f85c.pdf), Schuster et al., 1997, IEEE Transactions on Neural Processing, **1167 citations**
 
+* At the end of the 1990s, Yoshua Bengio and Yann LeCun, regarded today as two of the godfathers in deep learning, generalized document recognition via neural networks trained by gradient desent, and introduced Graph Transformer Networks : \
+[Gradient-based learning applied to document recognition](http://www.dengfanxin.cn/wp-content/uploads/2016/03/1998Lecun.pdf), LeCun et al., 1998, IEEE, **12546 citations (!)**
+
 ## 2000s
 
 This *AI Winter* continued until roughly 2006, when research in deep learning started to flourish again. 
