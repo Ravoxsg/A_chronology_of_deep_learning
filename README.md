@@ -11,10 +11,10 @@ So what is the hook with deep learning? Why is everyone talking about it? What h
 
 ## 1980s
 
-* Recurrent connections were invented at the beginning of the 1980s:\
+* *Recurrent connections* were invented at the beginning of the 1980s:\
 [Neural networks and physical systems with emergent collective computational abilities](http://www.pnas.org/content/pnas/79/8/2554.full.pdf), Hopfield, 1982, NAS, **19632 citations (!)**
 
-* Deep learning would exist as it exists now if it was not for Geoffrey Hinton, David Rumelhart and Ronald Williams invention of the Backpropagation algorithm: \
+* Deep learning would exist as it exists now if it was not for Geoffrey Hinton, David Rumelhart and Ronald Williams invention of the *Backpropagation* algorithm: \
 [Learning representations by back-propagating erros](http://www.cs.toronto.edu/~hinton/absps/naturebp.pdf), Rumelhart et al., 1986, Nature, **14500 citations** (!)\
 From this point, it was possible to train arbitrarily deep feed-forward neural networks. 
 
@@ -25,7 +25,10 @@ From this point, it was possible to train arbitrarily deep feed-forward neural n
 
 Despite promising breakthroughs in the late 1980s, in the 1990s, AI entered a new *Winter era*, during the which there were few developments (especially compared to what happened in the 2010s). Deep learning approaches were discredited because of their average performance, mostly because of lack of training data and computational power.
 
-* The wake-sleep algorithm inspired the autoencoder type of neural networks: \
+* Bengio's team was the first to exhibit how hard it can be to learn patterns *over a long time depth*:
+[Learning long-term dependencies with gradient is difficult](http://www.comp.hkbu.edu.hk/~markus/teaching/comp7650/tnn-94-gradient.pdf), Bengio et al., 1994, IEEE, **2418 citations**
+
+* The *wake-sleep algorithm* inspired the autoencoder type of neural networks: \
 [The wake-sleep algorithm for unsupervised neural networks](http://www.cs.toronto.edu/~fritz/absps/ws.pdf), Hinton et al., 1995, Science, **942 citations**
 
 * Convolutional neural networks (CNNs) were developed in the early 1990s, mostly by Yann LeCun, and their broad application was described here: \
