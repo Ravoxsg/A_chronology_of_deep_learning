@@ -4,7 +4,15 @@ Hey everyone who is reading this!
 
 So what is the hook with deep learning? Why is everyone talking about it? What happened? Well, in the last three decades, a lot of awesome ideas came out, leading to exceptional breakthroughs on general benchmark tasks to evaluate AI systems performance, like image classification, voice recognition, etc. To get the bigger picture, this repository tries to list in chronological order the main papers about deep learning. The number of citations is given according to Google Scholar stats. 
 
+## Before the 1980s
+
+* The concepton of *perceptron* traces back to 1957-58:\
+[The perceptron: a probabilistic model for information storage and organization in the brain](http://www2.fiit.stuba.sk/~cernans/nn/nn_texts/neuronove_siete_priesvitky_02_Q.pdf), Rosenblatt, 1958, Psychological Review, **7784 citations**
+
 ## 1980s
+
+* Recurrent connections were invented at the beginning of the 1980s:\
+[Neural networks and physical systems with emergent collective computational abilities](http://www.pnas.org/content/pnas/79/8/2554.full.pdf),Hopfield, 1982, NAS, **19632 citations**
 
 * Deep learning would exist as it exists now if it was not for Geoffrey Hinton, David Rumelhart and Ronald Williams invention of the Backpropagation algorithm: \
 [Learning representations by back-propagating erros](http://www.cs.toronto.edu/~hinton/absps/naturebp.pdf), Rumelhart et al., 1986, Nature, **14500 citations** (!)\
