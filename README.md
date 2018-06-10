@@ -44,6 +44,9 @@ Despite promising breakthroughs in the late 1980s, in the 1990s, AI entered a ne
 
 This *AI Winter* continued until roughly 2006, when research in deep learning started to flourish again. 
 
+* This *AI winter* probably ended with the groundbreaking (yet fairly simple) invention of *autoencoders*:\
+[Reducing the dimensionality of data with neural networks](https://pdfs.semanticscholar.org/7d76/b71b700846901ac4ac119403aa737a285e36.pdf), Hinton et al., 2006, Science, **7066 citations**
+
 ## 2010s
 
 ### 2010-2011
