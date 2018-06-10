@@ -25,7 +25,7 @@ From this point, it was possible to train arbitrarily deep feed-forward neural n
 
 Despite promising breakthroughs in the late 1980s, in the 1990s, AI entered a new *Winter era*, during the which there were few developments (especially compared to what happened in the 2010s). Deep learning approaches were discredited because of their average performance, mostly because of lack of training data and computational power.
 
-* Bengio's team was the first to exhibit how hard it can be to learn patterns *over a long time depth*:
+* Bengio's team was the first to exhibit how hard it can be to learn patterns *over a long time depth*:\
 [Learning long-term dependencies with gradient is difficult](http://www.comp.hkbu.edu.hk/~markus/teaching/comp7650/tnn-94-gradient.pdf), Bengio et al., 1994, IEEE, **2418 citations**
 
 * The *wake-sleep algorithm* inspired the autoencoder type of neural networks: \
