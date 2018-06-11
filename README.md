@@ -56,7 +56,7 @@ This *AI Winter* continued until roughly 2006, when research in deep learning st
 
 ### 2012
 
-* Deep learning became mainstream for real when Hinton's lab destroyed the previous state-of-the-art on ImageNet by using deep Conv Nets in 2012:
+* Deep learning became mainstream for real when Hinton's lab destroyed the previous state-of-the-art on ImageNet by using deep Conv Nets in 2012:\
 [Imagenet classification using deep convolutional neural networks](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf), Krizhevsky et al., 2012, NIPS, **24405 citations (!!)**
 
 ### 2013
@@ -66,5 +66,8 @@ This *AI Winter* continued until roughly 2006, when research in deep learning st
 ### 2015
 
 ### 2016
+
+* YOLO represents today the state-of-the-art in object detection, both in terms of accuracy and speed:\
+[You only look once: unified, real-time object detection](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Redmon_You_Only_Look_CVPR_2016_paper.pdf), Redmon et al., 2016, CVPR, **1612 citations**
 
 ### 2017
