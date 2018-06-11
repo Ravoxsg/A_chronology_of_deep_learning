@@ -65,6 +65,9 @@ This *AI Winter* continued until roughly 2006, when research in deep learning st
 
 ### 2015
 
+* ImageNet has been a catalyst of powerful ideas in deep learning. Few new architectures have been as widely adopted as Residual connections, introduced by Microsoft's Beijing team:\
+[Deep residual learning for image recognition](https://arxiv.org/pdf/1512.03385.pdf), He et al., 2015, CVPR, **9309 citations**
+
 ### 2016
 
 * YOLO represents today the state-of-the-art in object detection, both in terms of accuracy and speed:\
