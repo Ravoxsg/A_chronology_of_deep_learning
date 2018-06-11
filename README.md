@@ -56,6 +56,9 @@ This *AI Winter* continued until roughly 2006, when research in deep learning st
 
 ### 2012
 
+* Deep learning became mainstream for real when Hinton's lab destroyed the previous state-of-the-art on ImageNet by using deep Conv Nets in 2012:
+[Imagenet classification using deep convolutional neural networks](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf), Krizhevsky et al., 2012, NIPS, **24405 citations (!!)**
+
 ### 2013
 
 ### 2014
