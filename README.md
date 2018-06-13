@@ -79,6 +79,9 @@ Yann LeCun said that GANs "were the most exciting idea in machine learning in th
 * YOLO represents today the state-of-the-art in object detection, both in terms of accuracy and speed:\
 [You only look once: unified, real-time object detection](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Redmon_You_Only_Look_CVPR_2016_paper.pdf), Redmon et al., 2016, CVPR, **1612 citations**
 
+* OpenAI brought a few major tricks to improve GAN training:\
+[Improved techniques for training GANs](http://papers.nips.cc/paper/6125-improved-techniques-for-training-gans.pdf), Salimans et al., 2016, 
+
 ### 2017
 
 * One application of GANs is to improve image resolution, and in 2017 they were able to generate photo-like images:\
