@@ -63,6 +63,11 @@ This *AI Winter* continued until roughly 2006, when research in deep learning st
 
 ### 2014
 
+2014 was really a seminal year for deep learning, with major contributions from a broad variety of groups. 
+
+* Ian Goodfellow, while a PhD student in Bengio's group, discovered Generative Adversarial Networks - a completely new type of neural networks, that actually involves two networksL\
+[Generative Adversarial Networks](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf), Goodfellow et al., 2014, NIPS, **3501 citations**
+
 ### 2015
 
 * ImageNet has been a catalyst of powerful ideas in deep learning. Few new architectures have been as widely adopted as Residual connections, introduced by Microsoft's Beijing team:\
