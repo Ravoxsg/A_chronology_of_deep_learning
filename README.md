@@ -65,9 +65,9 @@ This *AI Winter* continued until roughly 2006, when research in deep learning st
 
 2014 was really a seminal year for deep learning, with major contributions from a broad variety of groups. 
 
-* Ian Goodfellow, while a PhD student in Bengio's group, discovered Generative Adversarial Networks - a completely new type of neural networks, that actually involves two networks:\
+* Ian Goodfellow, while a PhD student in Bengio's group, discovered *Generative Adversarial Networks* - a completely new type of neural networks, that actually involves two networks:\
 [Generative Adversarial Networks](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf), Goodfellow et al., 2014, NIPS, **3501 citations**\
-Yann LeCun said that GANs "were the most exciting idea in machine learning in the last ten years"
+Yann LeCun said that GANs *"were the most exciting idea in machine learning in the last ten years"*
 
 ### 2015
 
@@ -86,3 +86,6 @@ Yann LeCun said that GANs "were the most exciting idea in machine learning in th
 
 * One application of GANs is to improve image resolution, and in 2017 they were able to generate photo-like images:\
 [Photo-Realistic single image super-resolution using a Generative Adversarial Network](http://openaccess.thecvf.com/content_cvpr_2017/papers/Ledig_Photo-Realistic_Single_Image_CVPR_2017_paper.pdf), Ledig et al., 2017, CVPR, **598 citations**
+
+* *Cycle-GANs* allow amazing image-to-image translation, like stylizing a horse into a zebra for instance:\
+[Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhu_Unpaired_Image-To-Image_Translation_ICCV_2017_paper.pdf), Zhu et al., 2017, ICCV, **501**
