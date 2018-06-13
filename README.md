@@ -80,7 +80,7 @@ Yann LeCun said that GANs "were the most exciting idea in machine learning in th
 [You only look once: unified, real-time object detection](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Redmon_You_Only_Look_CVPR_2016_paper.pdf), Redmon et al., 2016, CVPR, **1612 citations**
 
 * OpenAI brought a few major tricks to improve GAN training:\
-[Improved techniques for training GANs](http://papers.nips.cc/paper/6125-improved-techniques-for-training-gans.pdf), Salimans et al., 2016, 
+[Improved techniques for training GANs](http://papers.nips.cc/paper/6125-improved-techniques-for-training-gans.pdf), Salimans et al., 2016, **811 citations**
 
 ### 2017
 
