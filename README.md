@@ -81,12 +81,12 @@ Yann LeCun said that GANs *"were the most exciting idea in machine learning in t
 
 ### 2015
 
-* ImageNet has been a catalyst of powerful ideas in deep learning. Few new architectures have been as widely adopted as Residual connections, introduced by Microsoft's Beijing team:\
+* ImageNet has been a catalyst of powerful ideas in deep learning. Few new architectures have been as widely adopted as *Residual connections*, introduced by Microsoft's Beijing team:\
 [Deep residual learning for image recognition](https://arxiv.org/pdf/1512.03385.pdf), He et al., 2015, CVPR, **9309 citations**
 
 ### 2016
 
-* YOLO represents today the state-of-the-art in object detection, both in terms of accuracy and speed:\
+* *YOLO* represents today the state-of-the-art in object detection, both in terms of accuracy and speed:\
 [You only look once: unified, real-time object detection](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Redmon_You_Only_Look_CVPR_2016_paper.pdf), Redmon et al., 2016, CVPR, **1612 citations**
 
 * OpenAI brought a few major tricks to improve GAN training:\
