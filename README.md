@@ -97,5 +97,8 @@ Yann LeCun said that GANs *"were the most exciting idea in machine learning in t
 * One application of GANs is to improve image resolution, and in 2017 they were able to generate photo-like images:\
 [Photo-Realistic single image super-resolution using a Generative Adversarial Network](http://openaccess.thecvf.com/content_cvpr_2017/papers/Ledig_Photo-Realistic_Single_Image_CVPR_2017_paper.pdf), Ledig et al., 2017, CVPR, **598 citations**
 
+* The impact of residual connections in image recognition was once again showed in this paper by Google:\
+[Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning](https://arxiv.org/pdf/1602.07261.pdf), Szegedy et al, 2017, AAAI, **864 citations**
+
 * *Cycle-GANs* allow amazing image-to-image translation, like stylizing a horse into a zebra for instance:\
 [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhu_Unpaired_Image-To-Image_Translation_ICCV_2017_paper.pdf), Zhu et al., 2017, ICCV, **501 citations**
