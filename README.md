@@ -61,8 +61,12 @@ This *AI Winter* continued until roughly 2006, when research in deep learning st
 
 ### 2013
 
-* In 2013 Kingma designed a new approach to autoencoders, in a Bayesian framework:\
-[Auto-encoding variational Bayes](https://arxiv.org/pdf/1312.6114.pdf), Kingma et al, 2013, ICLR, **2223 citations**
+* A team from Singapore introduced a new kind of CNNs, emphasizing interest in convolutions with 1 by 1 receptive fields:
+[Network-in-network](https://arxiv.org/pdf/1312.4400.pdf), Lin et al., ?, **1439 citations**
+
+* In 2013 Kingma designed a new approach to autoencoders, in a Bayesian framework called the *Variational Autoencoder (VAE)*:\
+[Auto-encoding variational Bayes](https://arxiv.org/pdf/1312.6114.pdf), Kingma et al, 2013, ICLR, **2223 citations**\
+This paper would have considerable consequences in the deep learning community.
 
 ### 2014
 
