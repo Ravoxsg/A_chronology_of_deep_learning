@@ -61,6 +61,9 @@ This *AI Winter* continued until roughly 2006, when research in deep learning st
 
 ### 2013
 
+* In 2013 Kingma designed a new approach to autoencoders, in a Bayesian framework:\
+[Auto-encoding variational Bayes](https://arxiv.org/pdf/1312.6114.pdf), Kingma et al, 2013, ICLR, **2223 citations**
+
 ### 2014
 
 2014 was really a seminal year for deep learning, with major contributions from a broad variety of groups. 
