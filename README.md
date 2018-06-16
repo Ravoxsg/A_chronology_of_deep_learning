@@ -57,6 +57,9 @@ This *AI Winter* continued until roughly 2006, when research in deep learning st
 * You can pile up autoencoders to improve feature extraction:\
 [Stacked denoising autoencoders](http://www.jmlr.org/papers/volume11/vincent10a/vincent10a.pdf), Vincent et al., 2010, Journal of Machine Learning Research, **2485 citations**
 
+* Glorot and Bengio showed how hard it can be to optimize deep networks, and introduced the *softsign* activation function:\
+[Understanding the difficulty of training deep feedforward neural networks](http://proceedings.mlr.press/v9/glorot10a/glorot10a.pdf?hc_location=ufi), Glorot et al., 2010, Journal of Machine Learning Research, **3059 citations**
+
 ### 2012
 
 * Deep learning became mainstream for real when Hinton's lab destroyed the previous state-of-the-art on ImageNet by using deep Conv Nets in 2012:\
