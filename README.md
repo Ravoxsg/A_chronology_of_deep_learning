@@ -54,6 +54,9 @@ This *AI Winter* continued until roughly 2006, when research in deep learning st
 
 ### 2010-2011
 
+* You can pile up autoencoders to improve feature extraction:\
+[Stacked denoising autoencoders](http://www.jmlr.org/papers/volume11/vincent10a/vincent10a.pdf), Vincent et al., 2010, Journal of Machine Learning Research, **2485 citations**
+
 ### 2012
 
 * Deep learning became mainstream for real when Hinton's lab destroyed the previous state-of-the-art on ImageNet by using deep Conv Nets in 2012:\
