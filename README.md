@@ -58,7 +58,7 @@ This *AI Winter* continued until roughly 2006, when research in deep learning st
 [Stacked denoising autoencoders](http://www.jmlr.org/papers/volume11/vincent10a/vincent10a.pdf), Vincent et al., 2010, Journal of Machine Learning Research, **2485 citations**
 
 * Although an older idea (dating back to 2000), Nair and Hinton popularized the use of the *ReLU* as an activation function in deep learning:\
-[Rectified Linear Units Improve Restricted Boltzmann Machines](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.165.6419&rep=rep1&type=pdf) Nair et al., 2010, ICML, **3379 citations**
+[Rectified Linear Units Improve Restricted Boltzmann Machines](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.165.6419&rep=rep1&type=pdf), Nair et al., 2010, ICML, **3379 citations**
 
 * Glorot and Bengio showed how hard it can be to optimize deep networks, and introduced the *softsign* activation function:\
 [Understanding the difficulty of training deep feedforward neural networks](http://proceedings.mlr.press/v9/glorot10a/glorot10a.pdf?hc_location=ufi), Glorot et al., 2010, Journal of Machine Learning Research, **3059 citations**
