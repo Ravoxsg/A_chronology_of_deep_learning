@@ -60,6 +60,9 @@ This *AI Winter* continued until roughly 2006, when research in deep learning st
 * Glorot and Bengio showed how hard it can be to optimize deep networks, and introduced the *softsign* activation function:\
 [Understanding the difficulty of training deep feedforward neural networks](http://proceedings.mlr.press/v9/glorot10a/glorot10a.pdf?hc_location=ufi), Glorot et al., 2010, Journal of Machine Learning Research, **3059 citations**
 
+* Andrew Ng's team showed that focusing on simple approach is once again of key relevance:\
+[An analysis of single-layer networks in unsupervised feature learning](http://proceedings.mlr.press/v15/coates11a/coates11a.pdf), Coates et al., 2011, Journal of Machine Learning Research, **1329 citations**
+
 ### 2012
 
 * Deep learning became mainstream for real when Hinton's lab destroyed the previous state-of-the-art on ImageNet by using deep Conv Nets in 2012:\
