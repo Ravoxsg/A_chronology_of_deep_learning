@@ -1,4 +1,4 @@
-# A chronology of deep learning
+# A chronology of deep learning [Still work in progress]
 
 Hey everyone who is reading this! 
 
