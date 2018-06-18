@@ -25,19 +25,14 @@ Despite promising breakthroughs in the late 1980s, in the 1990s, AI entered a ne
 
 * Bengio's team was the first to exhibit how hard it can be to learn patterns *over a long time depth*:\
 [Learning long-term dependencies with gradient is difficult](http://www.comp.hkbu.edu.hk/~markus/teaching/comp7650/tnn-94-gradient.pdf), Bengio et al., 1994, IEEE, **2418 citations**
-
 * The *wake-sleep algorithm* inspired the autoencoder type of neural networks: \
 [The wake-sleep algorithm for unsupervised neural networks](http://www.cs.toronto.edu/~fritz/absps/ws.pdf), Hinton et al., 1995, Science, **942 citations**
-
 * Convolutional neural networks (CNNs) were developed in the early 1990s, mostly by Yann LeCun, and their broad application was described here: \
 [Convolutional neural networks for images, speech and time-series](https://www.researchgate.net/profile/Yann_Lecun/publication/2453996_Convolutional_Networks_for_Images_Speech_and_Time-Series/links/0deec519dfa2325502000000.pdf), Yann LeCun & Yoshua Bengio, 1995, The Handbook of Brain Theory and Neural Networks, **1550 citations**
-
 * LSTMs, still widely used today for sequence modeling, are actually quite an old invention: \
 [Long short-term memory](http://web.eecs.utk.edu/~itamar/courses/ECE-692/Bobby_paper1.pdf), Hochreiter et al., 1997, Neural Computation, **9811 citations**
-
 * Roughly around the same time as LSTMs came the idea of training RNNs in *both directions*, meaning that hiddent states have access to input elements from the future: \
 [Bidirectional recurrent neural networks](https://www.researchgate.net/profile/Mike_Schuster/publication/3316656_Bidirectional_recurrent_neural_networks/links/56861d4008ae19758395f85c.pdf), Schuster et al., 1997, IEEE Transactions on Neural Processing, **1167 citations**
-
 * At the end of the 1990s, Yoshua Bengio and Yann LeCun, regarded today as two of the godfathers in deep learning, generalized document recognition via neural networks trained by gradient desent, and introduced Graph Transformer Networks : \
 [Gradient-based learning applied to document recognition](http://www.dengfanxin.cn/wp-content/uploads/2016/03/1998Lecun.pdf), LeCun et al., 1998, IEEE, **12546 citations (!)**
 
@@ -54,13 +49,10 @@ This *AI Winter* continued until roughly 2006, when research in deep learning st
 
 * You can pile up autoencoders to improve feature extraction:\
 [Stacked denoising autoencoders](http://www.jmlr.org/papers/volume11/vincent10a/vincent10a.pdf), Vincent et al., 2010, Journal of Machine Learning Research, **2485 citations**
-
 * Although an older idea (dating back to 2000), Nair and Hinton popularized the use of the *ReLU* as an activation function in deep learning:\
 [Rectified Linear Units Improve Restricted Boltzmann Machines](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.165.6419&rep=rep1&type=pdf), Nair et al., 2010, ICML, **3379 citations**
-
 * Glorot and Bengio showed how hard it can be to optimize deep networks, and introduced the *softsign* activation function:\
 [Understanding the difficulty of training deep feedforward neural networks](http://proceedings.mlr.press/v9/glorot10a/glorot10a.pdf?hc_location=ufi), Glorot et al., 2010, Journal of Machine Learning Research, **3059 citations**
-
 * Andrew Ng's team showed that focusing on simple approach is once again of key relevance:\
 [An analysis of single-layer networks in unsupervised feature learning](http://proceedings.mlr.press/v15/coates11a/coates11a.pdf), Coates et al., 2011, Journal of Machine Learning Research, **1329 citations**
 
@@ -73,7 +65,6 @@ This *AI Winter* continued until roughly 2006, when research in deep learning st
 
 * A team from Singapore introduced a new kind of CNNs, emphasizing interest in convolutions with 1 by 1 receptive fields:\
 [Network-in-network](https://arxiv.org/pdf/1312.4400.pdf), Lin et al., ?, **1439 citations**
-
 * In 2013 Kingma designed a new approach to autoencoders, in a Bayesian framework called the *Variational Autoencoder (VAE)*:\
 [Auto-encoding variational Bayes](https://arxiv.org/pdf/1312.6114.pdf), Kingma et al, 2013, ICLR, **2223 citations**\
 This paper would have considerable consequences in the deep learning community.
@@ -84,19 +75,14 @@ This paper would have considerable consequences in the deep learning community.
 
 * *Gated Recurrent Units* were introduced in 2014:\
 [Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation](https://arxiv.org/pdf/1406.1078.pdf), Cho et al., 2014, ?, **2647 citations**
-
 * *Adam*, probably the most used optimizer, was described by Durk Kingma and Jimmy Ba that year:\
 [Adam: a method for stochastic optimization](https://arxiv.org/pdf/1412.6980.pdf), Kingma and Ba, 2014, ICLR, **9562  citations**
-
 * *Sequence-to-sequence* learning with neural nets revolutionized machine translation in 2014:\
 [Sequence to sequence learning with neural networks](http://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf), Sutskever et al., 2014, NIPS, **3747 citations**
-
 * *Dropout* is now widely used for regularization:\
 [Dropout: a simple way to prevent neural networks from overfitting](http://www.jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf?utm_content=buffer79b43&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer), Srivastava et al., 2014, Journal of Machine Learning Research, **8792 citations**
-
 * Google described a more efficient way to generate image captions:\
 [Show and tell: a neural image caption generator](https://www.cv-foundation.org/openaccess/content_cvpr_2015/app/2A_101.pdf), Vinyals et al., 2014, CVPR (2015), **1652 citations**
-
 * Ian Goodfellow, while a PhD student in Bengio's group, discovered *Generative Adversarial Networks* - a completely new type of neural networks, that actually involves two networks:\
 [Generative Adversarial Networks](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf), Goodfellow et al., 2014, NIPS, **3501 citations**\
 Yann LeCun said that GANs *"were the most exciting idea in machine learning in the last ten years"*
@@ -110,7 +96,6 @@ Yann LeCun said that GANs *"were the most exciting idea in machine learning in t
 
 * *YOLO* represents today the state-of-the-art in object detection, both in terms of accuracy and speed:\
 [You only look once: unified, real-time object detection](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Redmon_You_Only_Look_CVPR_2016_paper.pdf), Redmon et al., 2016, CVPR, **1612 citations**
-
 * OpenAI brought a few major tricks to improve GAN training:\
 [Improved techniques for training GANs](http://papers.nips.cc/paper/6125-improved-techniques-for-training-gans.pdf), Salimans et al., 2016, **811 citations**
 
@@ -118,9 +103,7 @@ Yann LeCun said that GANs *"were the most exciting idea in machine learning in t
 
 * One application of GANs is to improve image resolution, and in 2017 they were able to generate photo-like images:\
 [Photo-Realistic single image super-resolution using a Generative Adversarial Network](http://openaccess.thecvf.com/content_cvpr_2017/papers/Ledig_Photo-Realistic_Single_Image_CVPR_2017_paper.pdf), Ledig et al., 2017, CVPR, **598 citations**
-
 * The impact of residual connections in image recognition was once again showed in this paper by Google:\
 [Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning](https://arxiv.org/pdf/1602.07261.pdf), Szegedy et al, 2017, AAAI, **864 citations**
-
 * *Cycle-GANs* allow amazing image-to-image translation, like stylizing a horse into a zebra for instance:\
 [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhu_Unpaired_Image-To-Image_Translation_ICCV_2017_paper.pdf), Zhu et al., 2017, ICCV, **501 citations**
