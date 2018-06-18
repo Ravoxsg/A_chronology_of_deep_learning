@@ -93,6 +93,10 @@ This paper would have considerable consequences in the deep learning community.
 * *Sequence-to-sequence* learning with neural nets revolutionized machine translation in 2014:\
 [Sequence to sequence learning with neural networks](http://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf), Sutskever et al., 2014, NIPS, **3747 citations**
 
+* *Dropout* is now widely used for regularization:\
+[Dropout: a simple way to prevent neural networks from overfitting](http://www.jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf?utm_content=buffer79b43&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer), Srivastava et al., 2014, Journal of Machine Learning Research, **8792 citations**
+
+
 * Ian Goodfellow, while a PhD student in Bengio's group, discovered *Generative Adversarial Networks* - a completely new type of neural networks, that actually involves two networks:\
 [Generative Adversarial Networks](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf), Goodfellow et al., 2014, NIPS, **3501 citations**\
 Yann LeCun said that GANs *"were the most exciting idea in machine learning in the last ten years"*
