@@ -13,11 +13,9 @@ So what is the hook with deep learning? Why is everyone talking about it? What h
 
 * *Recurrent connections* were invented at the beginning of the 1980s:\
 [Neural networks and physical systems with emergent collective computational abilities](http://www.pnas.org/content/pnas/79/8/2554.full.pdf), Hopfield, 1982, NAS, **19632 citations (!)**
-
 * Deep learning would exist as it exists now if it was not for Geoffrey Hinton, David Rumelhart and Ronald Williams invention of the *Backpropagation* algorithm: \
 [Learning representations by back-propagating erros](http://www.cs.toronto.edu/~hinton/absps/naturebp.pdf), Rumelhart et al., 1986, Nature, **14500 citations** (!)\
 From this point, it was possible to train arbitrarily deep feed-forward neural networks. 
-
 * A few years after, training deep recurrent nets was detailed in this paper: \
 [A learning algorithm for continually running fully recurrent neural networks](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.52.9724&rep=rep1&type=pdf), Williams et al., 1989, Neural Computation, **2913 citations**
 
