@@ -19,7 +19,7 @@ From this point, it was possible to train arbitrarily deep feed-forward neural n
 * A few years after, training deep recurrent nets was detailed in this paper: \
 [A learning algorithm for continually running fully recurrent neural networks](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.52.9724&rep=rep1&type=pdf), Williams et al., 1989, Neural Computation, **2913 citations**
 * A single hidden layer plain network has been shown to be a universal function approximator - justifying the interest in neural nets:\
-[Approximation by superpositions of a sigmoidal function](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.441.7873&rep=rep1&type=pdf), Cibenko, 1989, Mathematics of control, signal and system, **10168 citations**
+[Approximation by superpositions of a sigmoidal function](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.441.7873&rep=rep1&type=pdf), Cibenko, 1989, Mathematics of control, signal and system, **10168 citations (!)**
 
 ## 1990s
 
@@ -83,6 +83,7 @@ This paper would have considerable consequences in the deep learning community.
 [Sequence to sequence learning with neural networks](http://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf), Sutskever et al., 2014, NIPS, **3747 citations**
 * *Dropout* is now widely used for regularization:\
 [Dropout: a simple way to prevent neural networks from overfitting](http://www.jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf?utm_content=buffer79b43&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer), Srivastava et al., 2014, Journal of Machine Learning Research, **8792 citations**
+Dropout was first described by Srivastava during his Master's thesis, and the paper was rejected to NIPS 2012. 
 * Google described a more efficient way to generate image captions:\
 [Show and tell: a neural image caption generator](https://www.cv-foundation.org/openaccess/content_cvpr_2015/app/2A_101.pdf), Vinyals et al., 2014, CVPR (2015), **1652 citations**
 * Ian Goodfellow, while a PhD student in Bengio's group, discovered *Generative Adversarial Networks* - a completely new type of neural networks, that actually involves two networks:\
@@ -93,6 +94,8 @@ Yann LeCun said that GANs *"were the most exciting idea in machine learning in t
 
 * ImageNet has been a catalyst of powerful ideas in deep learning. Few new architectures have been as widely adopted as *Residual connections*, introduced by Microsoft's Beijing team:\
 [Deep residual learning for image recognition](https://arxiv.org/pdf/1512.03385.pdf), He et al., 2015, CVPR, **9309 citations**
+* *Batch-normalization* acts as a training booster and regularizer, by normalizing each mini-batch:\
+[Batch normalization: accelerating deep network training by reducing internal covariate shift](https://arxiv.org/pdf/1502.03167.pdf的paper适合想深入了解原理，这个视频很清楚的讲了bn起到的作用。), Ioffe et al., 2015, ?, **5048 citations**
 
 ### 2016
 
