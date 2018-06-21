@@ -18,6 +18,8 @@ So what is the hook with deep learning? Why is everyone talking about it? What h
 From this point, it was possible to train arbitrarily deep feed-forward neural networks. 
 * A few years after, training deep recurrent nets was detailed in this paper: \
 [A learning algorithm for continually running fully recurrent neural networks](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.52.9724&rep=rep1&type=pdf), Williams et al., 1989, Neural Computation, **2913 citations**
+* A single hidden layer plain network has been shown to be a universal function approximator - justifying the interest in neural nets:\
+[Approximation by superpositions of a sigmoidal function](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.441.7873&rep=rep1&type=pdf), Cibenko, 1989, Mathematics of control, signal and system, **10168 citations**
 
 ## 1990s
 
