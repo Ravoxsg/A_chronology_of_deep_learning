@@ -103,6 +103,8 @@ Yann LeCun said that GANs *"were the most exciting idea in machine learning in t
 
 ### 2016
 
+* In 2016 Google officially released Tensorflow:\
+[Tensorflow: a system for large-scale machine learning](https://www.usenix.org/system/files/conference/osdi16/osdi16-abadi.pdf), Abadi et al., 2016, USENIX, **3671 citations**
 * *YOLO* represents today the state-of-the-art in object detection, both in terms of accuracy and speed:\
 [You only look once: unified, real-time object detection](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Redmon_You_Only_Look_CVPR_2016_paper.pdf), Redmon et al., 2016, CVPR, **1612 citations**
 * OpenAI brought a few major tricks to improve GAN training:\
