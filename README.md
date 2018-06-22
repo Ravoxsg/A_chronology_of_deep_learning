@@ -42,8 +42,17 @@ Despite promising breakthroughs in the late 1980s, in the 1990s, AI entered a ne
 
 This *AI Winter* continued until roughly 2006, when research in deep learning started to flourish again. 
 
+* We have known for a very long time that neural nets are efficient at language modeling:\
+[A neural probabilistic language model](http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf), Bengio et al., 2003, Journal of Machine Learning Research, **3504 citations**
 * This *AI winter* probably ended with the groundbreaking (yet fairly simple) invention of *autoencoders*:\
 [Reducing the dimensionality of data with neural networks](https://pdfs.semanticscholar.org/7d76/b71b700846901ac4ac119403aa737a285e36.pdf), Hinton et al., 2006, Science, **7066 citations**
+* *Pre-training* can avoid training getting stuck because of a poor initialization:\
+[Greedy layer-wise training of deep networks](http://papers.nips.cc/paper/3048-greedy-layer-wise-training-of-deep-networks.pdf), Bengio et al., 2007, NIPS, **3022 citations**
+* The end of the 2000's saw improvements in deep generative models:\
+[Convolutional deep belief networks for scalable unsupervised learning and hierarchical representations](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.149.802&rep=rep1&type=pdf), Lee et al., 2009, ICML, **1832 citations**
+* Applying neural nets in multiple stages:\
+[What is the best multi-stage architecture for object recognition?](https://ieeexplore.ieee.org/abstract/document/5459469/?part=1), Jarrett et al., 2009, ICCV, **1349 citations**
+
 
 ## 2010s
 
