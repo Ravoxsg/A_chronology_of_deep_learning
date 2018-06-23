@@ -71,6 +71,14 @@ This *AI Winter* continued until roughly 2006, when research in deep learning st
 
 * Deep learning became mainstream for real when Hinton's lab destroyed the previous state-of-the-art on ImageNet by using deep Conv Nets in 2012:\
 [Imagenet classification using deep convolutional neural networks](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf), Krizhevsky et al., 2012, NIPS, **24405 citations (!!)**
+* The *Adadelta* popular adaptive learning rate dates back from 2012:\
+[Adadelta: an adaptive learning rate method](https://arxiv.org/pdf/1212.5701.pdf), Zeiler, 2012, ?, **1812 citations**
+* Dropout first paper:\
+[Improving neural networks by preventing co-adaptation of feature detectors](https://arxiv.org/pdf/1207.0580.pdf), Hinton et al., 2012, arxiv, **2773 citations**
+* Bayesian optimization can enhance the performance of most machine learning algorithms:\
+[Practical Bayesian optimization of machine learning algorithms](http://papers.nips.cc/paper/4522-practical-bayesian-optimization-of-machine-learning-algorithms.pdf), Snoek et al., 2012, NIPS, **1371 citations**
+* Perhaps surprisingly, random search is more efficient than grid search for hyper-parameter tuning:\
+[Random search for hyper-parameter optimization](http://www.jmlr.org/papers/volume13/bergstra12a/bergstra12a.pdf), Bergstra et al, 2012, Journal of Machine Learning Research, **1541 citations**
 
 ### 2013
 
@@ -79,6 +87,13 @@ This *AI Winter* continued until roughly 2006, when research in deep learning st
 * In 2013 Kingma designed a new approach to autoencoders, in a Bayesian framework called the *Variational Autoencoder (VAE)*:\
 [Auto-encoding variational Bayes](https://arxiv.org/pdf/1312.6114.pdf), Kingma et al, 2013, ICLR, **2223 citations**\
 This paper would have considerable consequences in the deep learning community.
+* Here, an integrated framework (that deals with recognition, localization and detection altogether !) using CNNs is presented:\
+[Overfeat: integrated recognition, localization and detection using convolution networks](https://arxiv.org/pdf/1312.6229.pdf), Sermanet et al, 2013, ?, **2209 citations**\
+Nowadays this framework is outdated and object detection is mostly done via algorithms like YOLO. Nevertheless, this paper was groundbreaking when it came out. 
+* Unsupervised learning with deep nets:\
+[Building high-level features using large scale unsupervised learning](https://arxiv.org/pdf/1112.6209.pdf&amp), Le et al., 2013, ICASSP, **1596 citations**
+* Scene labeling with deep CNNs:\
+[Learning hierarchical features for scence labeling](https://hal-upec-upem.archives-ouvertes.fr/file/index/docid/742077/filename/farabet-pami-13.pdf), Farabet et al., 2013, IEEE Pattern Analysis and Machine Intelligence, **1451 citations**
 
 ### 2014
 
@@ -90,7 +105,7 @@ This paper would have considerable consequences in the deep learning community.
 [Adam: a method for stochastic optimization](https://arxiv.org/pdf/1412.6980.pdf), Kingma and Ba, 2014, ICLR, **9562  citations**
 * *Sequence-to-sequence* learning with neural nets revolutionized machine translation in 2014:\
 [Sequence to sequence learning with neural networks](http://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf), Sutskever et al., 2014, NIPS, **3747 citations**
-* *Dropout* is now widely used for regularization:\
+* *Dropout* is now widely used for regularization. This is the official paper\
 [Dropout: a simple way to prevent neural networks from overfitting](http://www.jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf?utm_content=buffer79b43&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer), Srivastava et al., 2014, Journal of Machine Learning Research, **8792 citations**
 Dropout was first described by Srivastava during his Master's thesis, and the paper was rejected to NIPS 2012. 
 * Google described a more efficient way to generate image captions:\
