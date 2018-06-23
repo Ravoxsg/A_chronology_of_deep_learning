@@ -106,7 +106,7 @@ Nowadays this framework is outdated and object detection is mostly done via algo
 * *Sequence-to-sequence* learning with neural nets revolutionized machine translation in 2014:\
 [Sequence to sequence learning with neural networks](http://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf), Sutskever et al., 2014, NIPS, **3747 citations**
 * *Dropout* is now widely used for regularization. This is the official paper\
-[Dropout: a simple way to prevent neural networks from overfitting](http://www.jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf?utm_content=buffer79b43&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer), Srivastava et al., 2014, Journal of Machine Learning Research, **8792 citations**
+[Dropout: a simple way to prevent neural networks from overfitting](http://www.jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf?utm_content=buffer79b43&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer), Srivastava et al., 2014, Journal of Machine Learning Research, **8792 citations**\
 Dropout was first described by Srivastava during his Master's thesis, and the paper was rejected to NIPS 2012. 
 * Google described a more efficient way to generate image captions:\
 [Show and tell: a neural image caption generator](https://www.cv-foundation.org/openaccess/content_cvpr_2015/app/2A_101.pdf), Vinyals et al., 2014, CVPR (2015), **1652 citations**
