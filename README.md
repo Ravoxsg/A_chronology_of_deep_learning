@@ -99,12 +99,22 @@ Nowadays this framework is outdated and object detection is mostly done via algo
 
 2014 was really a seminal year for deep learning, with major contributions from a broad variety of groups. 
 
+* The *VGG-16 and VGG-19* architectures popularized the use of 3 by 3 convolution filters as well as going very deep in terms of number of layers:\
+[Very deep convolutional networks for large-scale image recognition](https://arxiv.org/pdf/1409.1556/), Simonyan et al., 2014, ICLR, **12292 citations (!)**
 * *Gated Recurrent Units* were introduced in 2014:\
 [Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation](https://arxiv.org/pdf/1406.1078.pdf), Cho et al., 2014, ?, **2647 citations**
+* Their performance for sequence modelling is evaluated here:\
+[Empirical evaluation of gated recurrent networks for sequence modelling](https://arxiv.org/pdf/1412.3555.pdf), Chung et al., 2014, arxiv, **1300 citations**
 * *Adam*, probably the most used optimizer, was described by Durk Kingma and Jimmy Ba that year:\
 [Adam: a method for stochastic optimization](https://arxiv.org/pdf/1412.6980.pdf), Kingma and Ba, 2014, ICLR, **9562  citations**
 * The popular framework *Caffe* was released that year:\
 [Caffe: convolutional architecture for fast feature embedding](https://arxiv.org/pdf/1408.5093.pdf), Jia et al., 2014, ACM, **7895 citations**
+* *Neural Turing Machines* are neural nets extended with an auxiliary memory:\
+[Neural Turing machines](https://arxiv.org/pdf/1410.5401.pdf), Graves et al., 2014, arxiv, **654 citations**
+* Rigorous benchmark of CNNs architecture:\
+[Return of the devil in details: delving deep into convolutional nets](https://arxiv.org/pdf/1405.3531.pdf), 2014, Chatfield et al., 2014, arxiv, **1636 citations**
+* *Stochastic backpropagation* allows to train nets which weights are represented by a mean and a variance:\
+[Stochastic backpropagation and approximate inference in deep generative models](https://arxiv.org/pdf/1401.4082.pdf), Rezende et al., 2014, ICML, **867 citations**
 * *Sequence-to-sequence* learning with neural nets revolutionized machine translation in 2014:\
 [Sequence to sequence learning with neural networks](http://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf), Sutskever et al., 2014, NIPS, **3747 citations**
 * *Dropout* is now widely used for regularization. This is the official paper\
