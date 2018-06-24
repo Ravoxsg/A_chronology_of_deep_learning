@@ -103,6 +103,8 @@ Nowadays this framework is outdated and object detection is mostly done via algo
 [Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation](https://arxiv.org/pdf/1406.1078.pdf), Cho et al., 2014, ?, **2647 citations**
 * *Adam*, probably the most used optimizer, was described by Durk Kingma and Jimmy Ba that year:\
 [Adam: a method for stochastic optimization](https://arxiv.org/pdf/1412.6980.pdf), Kingma and Ba, 2014, ICLR, **9562  citations**
+* The popular framework *Caffe* was released that year:\
+[Caffe: convolutional architecture for fast feature embedding](https://arxiv.org/pdf/1408.5093.pdf), Jia et al., 2014, ACM, **7895 citations**
 * *Sequence-to-sequence* learning with neural nets revolutionized machine translation in 2014:\
 [Sequence to sequence learning with neural networks](http://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf), Sutskever et al., 2014, NIPS, **3747 citations**
 * *Dropout* is now widely used for regularization. This is the official paper\
