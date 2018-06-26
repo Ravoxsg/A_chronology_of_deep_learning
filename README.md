@@ -136,6 +136,18 @@ Yann LeCun said that GANs *"were the most exciting idea in machine learning in t
 [Fast R-CNN](http://openaccess.thecvf.com/content_iccv_2015/papers/Girshick_Fast_R-CNN_ICCV_2015_paper.pdf), Girshick, 2015, ICCV, **2736 citations**
 * Building on the previous paper, more efficiently:\
 [Faster R-CNN: towards real-time object detection with region-proposal networks](http://papers.nips.cc/paper/5638-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks.pdf), Ren et al., 2015, NIPS, **3651 citations**
+* Merging sequence modelling with CNNs:\
+[Convolutional LSTM](http://papers.nips.cc/paper/5955-convolutional-lstm-network-a-machine-learning-approach-for-precipitation-nowcasting.pdf), Shi et al., 2015, NIPS, **339 citations**
+* A new way to go deeper with neural nets:\
+[Highway networks](https://arxiv.org/pdf/1505.00387.pdf), Srivastava et al., 2015, ICML, **454 citations**
+* The interest of highway networks is further developed here:\
+[Training very deep networks](http://papers.nips.cc/paper/5850-training-very-deep-networks.pdf), Srivastava et al., 2015, NIPS, **405 citations**
+* *Attention* was one of the most important improvements in the last few years:\
+[Show, attend and tell: neural image caption generation with visual attention](http://proceedings.mlr.press/v37/xuc15.pdf), Xu et al., 2015, ICML, **1778 citations**
+* Efficient end-to-end image segmentation with low data:\
+[U-Net: convolutional networks for biomedical image segmentation](https://arxiv.org/pdf/1505.04597.pdf)和%5bTiramisu%5d(https://arxiv.org/abs/1611.09326.pdf), Ronneberger et al., 2015, **1993 citations**
+* Unsupervised learning with CNNs became of new interest with GANs:\
+[Unsupervised representation learning with deep convolutional generative adversarial networks](https://arxiv.org/pdf/1511.06434.pdfï¼‰), Radford et al., 2015, ICLR (2016), **1713 citations**
 
 ### 2016
 
