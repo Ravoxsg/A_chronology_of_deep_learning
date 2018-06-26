@@ -145,7 +145,7 @@ Yann LeCun said that GANs *"were the most exciting idea in machine learning in t
 * *Attention* was one of the most important improvements in the last few years:\
 [Show, attend and tell: neural image caption generation with visual attention](http://proceedings.mlr.press/v37/xuc15.pdf), Xu et al., 2015, ICML, **1778 citations**
 * Efficient end-to-end image segmentation with low data:\
-[U-Net: convolutional networks for biomedical image segmentation](https://arxiv.org/pdf/1505.04597.pdf)和%5bTiramisu%5d(https://arxiv.org/abs/1611.09326.pdf), Ronneberger et al., 2015, **1993 citations**
+[U-Net: convolutional networks for biomedical image segmentation](https://arxiv.org/abs/1611.09326.pdf), Ronneberger et al., 2015, **1993 citations**
 * Unsupervised learning with CNNs became of new interest with GANs:\
 [Unsupervised representation learning with deep convolutional generative adversarial networks](https://arxiv.org/pdf/1511.06434.pdfï¼‰), Radford et al., 2015, ICLR (2016), **1713 citations**
 
