@@ -115,6 +115,8 @@ Nowadays this framework is outdated and object detection is mostly done via algo
 [Caffe: convolutional architecture for fast feature embedding](https://arxiv.org/pdf/1408.5093.pdf), Jia et al., 2014, ACM, **7895 citations**
 * *Neural Turing Machines* are neural nets extended with an auxiliary memory:\
 [Neural Turing machines](https://arxiv.org/pdf/1410.5401.pdf), Graves et al., 2014, arxiv, **654 citations**
+* Semi-supervised  learning revisited with VAEs:\
+[Semi-supervised learning with deep generative models](http://papers.nips.cc/paper/5352-semi-supervised-learning-with-deep-generative-models.pdf), Kingma et al, 2014, NIPS, **533 citations**
 * Rigorous benchmark of CNNs architecture:\
 [Return of the devil in details: delving deep into convolutional nets](https://arxiv.org/pdf/1405.3531.pdf), 2014, Chatfield et al., 2014, arxiv, **1636 citations**
 * *Stochastic backpropagation* allows to train nets which weights are represented by a mean and a variance:\
