@@ -44,6 +44,8 @@ This *AI Winter* continued until roughly 2006, when research in deep learning st
 
 * We have known for a very long time that neural nets are efficient at language modeling:\
 [A neural probabilistic language model](http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf), Bengio et al., 2003, Journal of Machine Learning Research, **3504 citations**
+* *Belief networks* were pretty popular in the 2000s:\
+[A fast learning algorithm for deep belief nets](http://www.cs.toronto.edu/~hinton/absps/fastnc.pdf), Hinton et al., 2006, Neural Computation, **8362 citations**
 * This *AI winter* probably ended with the groundbreaking (yet fairly simple) invention of *autoencoders*:\
 [Reducing the dimensionality of data with neural networks](https://pdfs.semanticscholar.org/7d76/b71b700846901ac4ac119403aa737a285e36.pdf), Hinton et al., 2006, Science, **7066 citations**
 * *Pre-training* can avoid training getting stuck because of a poor initialization:\
@@ -92,6 +94,8 @@ This paper would have considerable consequences in the deep learning community.
 Nowadays this framework is outdated and object detection is mostly done via algorithms like YOLO. Nevertheless, this paper was groundbreaking when it came out. 
 * Unsupervised learning with deep nets:\
 [Building high-level features using large scale unsupervised learning](https://arxiv.org/pdf/1112.6209.pdf&amp), Le et al., 2013, ICASSP, **1596 citations**
+* Deep learning started to prove very efficient for speech recognition too:\
+[Speech recognition with deep recurrrent neural networks](https://arxiv.org/pdf/1303.5778.pdf)?), Graves et al., 2013, Acoustics, speech and signal processing, **2296 citations**
 * Scene labeling with deep CNNs:\
 [Learning hierarchical features for scence labeling](https://hal-upec-upem.archives-ouvertes.fr/file/index/docid/742077/filename/farabet-pami-13.pdf), Farabet et al., 2013, IEEE Pattern Analysis and Machine Intelligence, **1451 citations**
 
