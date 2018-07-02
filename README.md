@@ -2,7 +2,7 @@
 
 Hey everyone who is reading this! 
 
-So what is the hook with deep learning? Why is everyone talking about it? What happened? Well, in the last three decades, a lot of awesome ideas came out, leading to exceptional breakthroughs on general benchmark tasks to evaluate AI systems performance, like image classification, voice recognition, etc. To get the bigger picture, this repository tries to list in chronological order the main papers about deep learning. The number of citations is given according to Google Scholar stats. 
+So what is the hook with deep learning? Why is everyone talking about it? What happened? Well, in the last three decades, a lot of awesome ideas came out, leading to exceptional breakthroughs on general benchmark tasks to evaluate AI systems performance, like image classification, voice recognition, etc. To get the bigger picture, this repository tries to list in chronological order the main papers about deep learning. This list of **70 selected papers** covers all deep learning applications and research areas, including image recognition, machine translation, speech recognition, optimization and meta-learning.The number of citations is given according to Google Scholar stats. 
 
 ## Before the 1980s
 
