@@ -144,6 +144,8 @@ Yann LeCun said that GANs *"were the most exciting idea in machine learning in t
 [Faster R-CNN: towards real-time object detection with region-proposal networks](http://papers.nips.cc/paper/5638-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks.pdf), Ren et al., 2015, NIPS, **3651 citations**
 * Merging sequence modelling with CNNs:\
 [Convolutional LSTM](http://papers.nips.cc/paper/5955-convolutional-lstm-network-a-machine-learning-approach-for-precipitation-nowcasting.pdf), Shi et al., 2015, NIPS, **339 citations**
+* Another approach of combining CNNs and LSTMs:\
+[Long-term recurrent convolutional networks for visual recognition and description](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Donahue_Long-Term_Recurrent_Convolutional_2015_CVPR_paper.pdf), Donahue et al., 2015, CVPR, **1673 citations**
 * A new way to go deeper with neural nets:\
 [Highway networks](https://arxiv.org/pdf/1505.00387.pdf), Srivastava et al., 2015, ICML, **454 citations**
 * The interest of highway networks is further developed here:\
@@ -154,6 +156,8 @@ Yann LeCun said that GANs *"were the most exciting idea in machine learning in t
 [U-Net: convolutional networks for biomedical image segmentation](https://arxiv.org/abs/1611.09326.pdf), Ronneberger et al., 2015, **1993 citations**
 * Unsupervised learning with CNNs became of new interest with GANs:\
 [Unsupervised representation learning with deep convolutional generative adversarial networks](https://arxiv.org/pdf/1511.06434.pdfï¼‰), Radford et al., 2015, ICLR (2016), **1713 citations**
+* Combining GANs with VAEs can give interesting results:\
+[Adversarial autoencoders](https://arxiv.org/pdf/1511.05644.pdf), Makhzani et al., 2015, ICLR (2016), **333 citations**
 
 ### 2016
 
@@ -163,12 +167,24 @@ Yann LeCun said that GANs *"were the most exciting idea in machine learning in t
 [You only look once: unified, real-time object detection](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Redmon_You_Only_Look_CVPR_2016_paper.pdf), Redmon et al., 2016, CVPR, **1612 citations**
 * OpenAI brought a few major tricks to improve GAN training:\
 [Improved techniques for training GANs](http://papers.nips.cc/paper/6125-improved-techniques-for-training-gans.pdf), Salimans et al., 2016, **811 citations**
+* Probabilistic generative models with attention:\
+[Attend, infer, repeat](https://papers.nips.cc/paper/6230-attend-infer-repeat-fast-scene-understanding-with-generative-models.pdf), Ali Eslami et al., 2016, NIPS, **67 citations**
+* Factorizing convolution filters allows better results with less parameters:\
+[Rethinking the inception architecture for computer vision](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Szegedy_Rethinking_the_Inception_CVPR_2016_paper.pdf), Szegedy et al., 2016, CVPR, **1595 citations**
 
 ### 2017
 
+* One major problem with GANs is training unstability, where the decoder learns much faster than the generator, and training gets stuck. W-GANs introduce a new loss function in GANs, that helps tackling this problem:\
+[Wasserstein GANs](https://arxiv.org/pdf/1701.07875.pdf), Arjovski et al., 2017, ICML, **720 citations**
+* A team from Google introduced the *Transformer*, an architecture solely relying on attention, that yields state-of-the-art results on machine translation tasks:\
+[Attention is all you need](https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf), Vaswani et al., 2017, NIPS, **348 citations**
 * One application of GANs is to improve image resolution, and in 2017 they were able to generate photo-like images:\
 [Photo-Realistic single image super-resolution using a Generative Adversarial Network](http://openaccess.thecvf.com/content_cvpr_2017/papers/Ledig_Photo-Realistic_Single_Image_CVPR_2017_paper.pdf), Ledig et al., 2017, CVPR, **598 citations**
 * The impact of residual connections in image recognition was once again showed in this paper by Google:\
 [Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning](https://arxiv.org/pdf/1602.07261.pdf), Szegedy et al, 2017, AAAI, **864 citations**
 * *Cycle-GANs* allow amazing image-to-image translation, like stylizing a horse into a zebra for instance:\
 [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhu_Unpaired_Image-To-Image_Translation_ICCV_2017_paper.pdf), Zhu et al., 2017, ICCV, **501 citations**
+* In the Fall 2017, Hinton's Google Brain team published a completely new kind of neural net architecture, the *capsule network*, that Hinton is credited to have described as *finally something that seems to work*. Results on MNIST are very competitive.\
+[Dynamic routing between capsules](http://papers.nips.cc/paper/6975-dynamic-routing-between-capsules.pdf), Sabour et al., 2017, NIPS, **135 citations**
+* 2017 has seen a regain of interest for gradient estimators, that are (preferably unbiased and ideally low-variance) substitutions in cases where it's impossible to get the true gradient:\
+[REBAR: low-variance, unbiased gradient estimates for discrete latent-variable models](http://papers.nips.cc/paper/6856-rebar-low-variance-unbiased-gradient-estimates-for-discrete-latent-variable-models.pdf), Tucker et al., 2017, NIPS, **28 citations**
