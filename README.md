@@ -158,6 +158,8 @@ Yann LeCun said that GANs *"were the most exciting idea in machine learning in t
 [Unsupervised representation learning with deep convolutional generative adversarial networks](https://arxiv.org/pdf/1511.06434.pdfï¼‰), Radford et al., 2015, ICLR (2016), **1713 citations**
 * Combining GANs with VAEs can give interesting results:\
 [Adversarial autoencoders](https://arxiv.org/pdf/1511.05644.pdf), Makhzani et al., 2015, ICLR (2016), **333 citations**
+* CNNs are invariant to translation, but not to rotation. This paper by Google introduces a powerful spatially invariant module, the *Spatial Transformer*:\
+[Spatial transformer networks](http://papers.nips.cc/paper/5854-spatial-transformer-networks.pdf), Jaderberg et al., 2015, NIPS, **855 citations**
 
 ### 2016
 
