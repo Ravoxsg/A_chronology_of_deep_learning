@@ -95,7 +95,7 @@ Nowadays this framework is outdated and object detection is mostly done via algo
 * Unsupervised learning with deep nets:\
 [Building high-level features using large scale unsupervised learning](https://arxiv.org/pdf/1112.6209.pdf&amp), Le et al., 2013, ICASSP, **1596 citations**
 * Deep learning started to prove very efficient for speech recognition too:\
-[Speech recognition with deep recurrrent neural networks](https://arxiv.org/pdf/1303.5778.pdf)?), Graves et al., 2013, Acoustics, speech and signal processing, **2296 citations**
+[Speech recognition with deep recurrrent neural networks](https://arxiv.org/pdf/1303.5778.pdf), Graves et al., 2013, Acoustics, speech and signal processing, **2296 citations**
 * Scene labeling with deep CNNs:\
 [Learning hierarchical features for scence labeling](https://hal-upec-upem.archives-ouvertes.fr/file/index/docid/742077/filename/farabet-pami-13.pdf), Farabet et al., 2013, IEEE Pattern Analysis and Machine Intelligence, **1451 citations**
 
