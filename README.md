@@ -140,7 +140,7 @@ Yann LeCun said that GANs *"were the most exciting idea in machine learning in t
 [Batch normalization: accelerating deep network training by reducing internal covariate shift](https://arxiv.org/pdf/1502.03167.pdf的paper适合想深入了解原理，这个视频很清楚的讲了bn起到的作用。), Ioffe et al., 2015, ICML, **5048 citations**
 * Major improvement in object detection:\
 [Fast R-CNN](http://openaccess.thecvf.com/content_iccv_2015/papers/Girshick_Fast_R-CNN_ICCV_2015_paper.pdf), Girshick, 2015, ICCV, **2736 citations**
-* Building on the previous paper, more efficiently:\
+* Building on the previous paper, more efficiently (state-of-the-art accuracy):\
 [Faster R-CNN: towards real-time object detection with region-proposal networks](http://papers.nips.cc/paper/5638-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks.pdf), Ren et al., 2015, NIPS, **3651 citations**
 * Merging sequence modelling with CNNs:\
 [Convolutional LSTM](http://papers.nips.cc/paper/5955-convolutional-lstm-network-a-machine-learning-approach-for-precipitation-nowcasting.pdf), Shi et al., 2015, NIPS, **339 citations**
