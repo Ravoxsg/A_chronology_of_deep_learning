@@ -50,6 +50,8 @@ This *AI Winter* continued until roughly 2006, when research in deep learning st
 [Reducing the dimensionality of data with neural networks](https://pdfs.semanticscholar.org/7d76/b71b700846901ac4ac119403aa737a285e36.pdf), Hinton et al., 2006, Science, **7066 citations**
 * *Pre-training* can avoid training getting stuck because of a poor initialization:\
 [Greedy layer-wise training of deep networks](http://papers.nips.cc/paper/3048-greedy-layer-wise-training-of-deep-networks.pdf), Bengio et al., 2007, NIPS, **3022 citations**
+* *Denoising autoencoders* are an elegant extension of autoencoders:\
+[Extracting and Composing Robust features with Denoising Autoencoders](http://www.cs.toronto.edu/~larocheh/publications/icml-2008-denoising-autoencoders.pdf), Vincent et al., 2008, ICML, **2602 citations**
 * The end of the 2000's saw improvements in deep generative models:\
 [Convolutional deep belief networks for scalable unsupervised learning and hierarchical representations](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.149.802&rep=rep1&type=pdf), Lee et al., 2009, ICML, **1832 citations**
 * Applying neural nets in multiple stages:\
@@ -66,6 +68,8 @@ This *AI Winter* continued until roughly 2006, when research in deep learning st
 [Rectified Linear Units Improve Restricted Boltzmann Machines](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.165.6419&rep=rep1&type=pdf), Nair et al., 2010, ICML, **3379 citations**
 * Glorot and Bengio showed how hard it can be to optimize deep networks, and introduced the *softsign* activation function:\
 [Understanding the difficulty of training deep feedforward neural networks](http://proceedings.mlr.press/v9/glorot10a/glorot10a.pdf?hc_location=ufi), Glorot et al., 2010, Journal of Machine Learning Research, **3059 citations**
+* Althoug not used so much anymore, unsupervised training has been shown to improve training:\
+[Why Does Unsupervised Pre-training help Deep Learning?](http://www.jmlr.org/papers/volume11/erhan10a/erhan10a.pdf), Erhan et al., 2010, Journal of Machine Learning Research, **1464 citations**
 * Andrew Ng's team showed that focusing on simple approach is once again of key relevance:\
 [An analysis of single-layer networks in unsupervised feature learning](http://proceedings.mlr.press/v15/coates11a/coates11a.pdf), Coates et al., 2011, Journal of Machine Learning Research, **1329 citations**
 
@@ -98,6 +102,8 @@ Nowadays this framework is outdated and object detection is mostly done via algo
 [Speech recognition with deep recurrrent neural networks](https://arxiv.org/pdf/1303.5778.pdf), Graves et al., 2013, Acoustics, speech and signal processing, **2296 citations**
 * Scene labeling with deep CNNs:\
 [Learning hierarchical features for scence labeling](https://hal-upec-upem.archives-ouvertes.fr/file/index/docid/742077/filename/farabet-pami-13.pdf), Farabet et al., 2013, IEEE Pattern Analysis and Machine Intelligence, **1451 citations**
+* Generalizing *dropout* with *DropConnect* for better generalization:\
+[Regularization of Neural Networks Using DropConnect](http://proceedings.mlr.press/v28/wan13.pdf), Wan et al., 2013, ICML, **1059** citations**
 
 ### 2014
 
@@ -131,6 +137,8 @@ Dropout was first described by Srivastava during his Master's thesis, and the pa
 * Ian Goodfellow, while a PhD student in Bengio's group, discovered *Generative Adversarial Networks* - a completely new type of neural networks, that actually involves two networks:\
 [Generative Adversarial Networks](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf), Goodfellow et al., 2014, NIPS, **3501 citations**\
 Yann LeCun said that GANs *"were the most exciting idea in machine learning in the last ten years"*
+* Generic visual recognition with deep learning:\
+[A Deep Convolutional Activation Feature for Generic Visual Recognition](http://proceedings.mlr.press/v32/donahue14.pdf), Donahue et al., 2014, ICML, **2305 citations**
 * In 2014, Ross Girshick's team, revolutionized object detection with deep learning and method called *R-CNN*, leading to significant improvement of the state-of-the-art:\
 [Rich Features Hierarchies for Acurate Object Detection and Semantic Segmentation](https://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Girshick_Rich_Feature_Hierarchies_2014_CVPR_paper.pdf), Ross Girshick et al., 2014, CVPR, **6295 citations**
 
@@ -142,6 +150,8 @@ Yann LeCun said that GANs *"were the most exciting idea in machine learning in t
 [Batch normalization: accelerating deep network training by reducing internal covariate shift](https://arxiv.org/pdf/1502.03167.pdf的paper适合想深入了解原理，这个视频很清楚的讲了bn起到的作用。), Ioffe et al., 2015, ICML, **5048 citations**
 * Merging sequence modelling with CNNs:\
 [Convolutional LSTM](http://papers.nips.cc/paper/5955-convolutional-lstm-network-a-machine-learning-approach-for-precipitation-nowcasting.pdf), Shi et al., 2015, NIPS, **339 citations**
+* Towards conversation with a deep learning agent:\
+[A Neural Conversational Model](https://arxiv.org/pdf/1506.05869v1.pdf), Vinyals et al., 2015, ICML, **491 citations**
 * Another approach of combining CNNs and LSTMs:\
 [Long-term recurrent convolutional networks for visual recognition and description](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Donahue_Long-Term_Recurrent_Convolutional_2015_CVPR_paper.pdf), Donahue et al., 2015, CVPR, **1673 citations**
 * A new way to go deeper with neural nets:\
@@ -175,6 +185,8 @@ Yann LeCun said that GANs *"were the most exciting idea in machine learning in t
 [Attend, infer, repeat](https://papers.nips.cc/paper/6230-attend-infer-repeat-fast-scene-understanding-with-generative-models.pdf), Ali Eslami et al., 2016, NIPS, **67 citations**
 * Factorizing convolution filters allows better results with less parameters:\
 [Rethinking the inception architecture for computer vision](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Szegedy_Rethinking_the_Inception_CVPR_2016_paper.pdf), Szegedy et al., 2016, CVPR, **1595 citations**
+* An elegant new normalization idea by UofT:\
+[Layer Normalization](https://arxiv.org/pdf/1607.06450.pdf), Ba et al., 2016, ?, **566 citations**
 
 ### 2017
 
