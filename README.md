@@ -103,7 +103,7 @@ Nowadays this framework is outdated and object detection is mostly done via algo
 * Scene labeling with deep CNNs:\
 [Learning hierarchical features for scence labeling](https://hal-upec-upem.archives-ouvertes.fr/file/index/docid/742077/filename/farabet-pami-13.pdf), Farabet et al., 2013, IEEE Pattern Analysis and Machine Intelligence, **1451 citations**
 * Generalizing *dropout* with *DropConnect* for better generalization:\
-[Regularization of Neural Networks Using DropConnect](http://proceedings.mlr.press/v28/wan13.pdf), Wan et al., 2013, ICML, **1059** citations**
+[Regularization of Neural Networks Using DropConnect](http://proceedings.mlr.press/v28/wan13.pdf), Wan et al., 2013, ICML, **1059 citations**
 
 ### 2014
 
