@@ -131,7 +131,7 @@ Dropout was first described by Srivastava during his Master's thesis, and the pa
 * Ian Goodfellow, while a PhD student in Bengio's group, discovered *Generative Adversarial Networks* - a completely new type of neural networks, that actually involves two networks:\
 [Generative Adversarial Networks](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf), Goodfellow et al., 2014, NIPS, **3501 citations**\
 Yann LeCun said that GANs *"were the most exciting idea in machine learning in the last ten years"*
-* In 2014, Ross Girshick's team, revolutionized object detection with deep learning and method called *RCNN*, leading to significant improvement of the state-of-the-art:\
+* In 2014, Ross Girshick's team, revolutionized object detection with deep learning and method called *R-CNN*, leading to significant improvement of the state-of-the-art:\
 [Rich Features Hierarchies for Acurate Object Detection and Semantic Segmentation](https://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Girshick_Rich_Feature_Hierarchies_2014_CVPR_paper.pdf), Ross Girshick et al., 2014, CVPR, **6295 citations**
 
 ### 2015
@@ -192,3 +192,5 @@ Yann LeCun said that GANs *"were the most exciting idea in machine learning in t
 [Dynamic routing between capsules](http://papers.nips.cc/paper/6975-dynamic-routing-between-capsules.pdf), Sabour et al., 2017, NIPS, **135 citations**
 * 2017 has seen a regain of interest for gradient estimators, that are (preferably unbiased and ideally low-variance) substitutions in cases where it's impossible to get the true gradient:\
 [REBAR: low-variance, unbiased gradient estimates for discrete latent-variable models](http://papers.nips.cc/paper/6856-rebar-low-variance-unbiased-gradient-estimates-for-discrete-latent-variable-models.pdf), Tucker et al., 2017, NIPS, **28 citations**
+* FAIR built on Faster R-CNN and improved it for image segmentation with *Mask R-CNN*:\
+[Mask R-CNN](https://arxiv.org/pdf/1703.06870.pdf), He et al., 2017, ICCV, **804 citations**
