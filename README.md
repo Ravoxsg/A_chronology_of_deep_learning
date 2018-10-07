@@ -2,7 +2,7 @@
 
 Hey everyone who is reading this! 
 
-So what is the hook with deep learning? Why is everyone talking about it? What happened? Well, in the last three decades, a lot of awesome ideas came out, leading to exceptional breakthroughs on general benchmark tasks to evaluate AI systems performance, like image classification, voice recognition, etc. To get the bigger picture, this repository tries to list in chronological order the main papers about deep learning. This list of **70 selected papers** covers all deep learning applications and research areas, including image recognition, machine translation, speech recognition, optimization and meta-learning.The number of citations is given according to Google Scholar stats. 
+So what is the hook with deep learning? Why is everyone talking about it? What happened? Well, in the last three decades, a lot of awesome ideas came out, leading to exceptional breakthroughs on general benchmark tasks to evaluate AI systems performance, like image classification, voice recognition, etc. To get the bigger picture, this repository tries to list in chronological order the main papers about deep learning. This list of **80 selected papers** covers all deep learning applications and research areas, including image recognition, machine translation, speech recognition, optimization and meta-learning.The number of citations is given according to Google Scholar stats. 
 
 ## Before the 1980s
 
@@ -131,6 +131,8 @@ Dropout was first described by Srivastava during his Master's thesis, and the pa
 * Ian Goodfellow, while a PhD student in Bengio's group, discovered *Generative Adversarial Networks* - a completely new type of neural networks, that actually involves two networks:\
 [Generative Adversarial Networks](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf), Goodfellow et al., 2014, NIPS, **3501 citations**\
 Yann LeCun said that GANs *"were the most exciting idea in machine learning in the last ten years"*
+* In 2014, Ross Girshick's team, revolutionized object detection with deep learning and method called *RCNN*, leading to significant improvement of the state-of-the-art:\
+[Rich Features Hierarchies for Acurate Object Detection and Semantic Segmentation](https://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Girshick_Rich_Feature_Hierarchies_2014_CVPR_paper.pdf), Ross Girshick et al., 2014, CVPR, **6295 citations**\
 
 ### 2015
 
@@ -138,8 +140,6 @@ Yann LeCun said that GANs *"were the most exciting idea in machine learning in t
 [Deep residual learning for image recognition](https://arxiv.org/pdf/1512.03385.pdf), He et al., 2015, CVPR, **9309 citations**
 * *Batch-normalization* acts as a training booster and regularizer, by normalizing each mini-batch:\
 [Batch normalization: accelerating deep network training by reducing internal covariate shift](https://arxiv.org/pdf/1502.03167.pdf的paper适合想深入了解原理，这个视频很清楚的讲了bn起到的作用。), Ioffe et al., 2015, ICML, **5048 citations**
-* Major improvement in object detection:\
-[Fast R-CNN](http://openaccess.thecvf.com/content_iccv_2015/papers/Girshick_Fast_R-CNN_ICCV_2015_paper.pdf), Girshick, 2015, ICCV, **2736 citations**
 * Building on the previous paper, more efficiently (state-of-the-art accuracy):\
 [Faster R-CNN: towards real-time object detection with region-proposal networks](http://papers.nips.cc/paper/5638-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks.pdf), Ren et al., 2015, NIPS, **3651 citations**
 * Merging sequence modelling with CNNs:\
@@ -160,6 +160,8 @@ Yann LeCun said that GANs *"were the most exciting idea in machine learning in t
 [Adversarial autoencoders](https://arxiv.org/pdf/1511.05644.pdf), Makhzani et al., 2015, ICLR (2016), **333 citations**
 * CNNs are invariant to translation, but not to rotation. This paper by Google introduces a powerful spatially invariant module, the *Spatial Transformer*:\
 [Spatial transformer networks](http://papers.nips.cc/paper/5854-spatial-transformer-networks.pdf), Jaderberg et al., 2015, NIPS, **855 citations**
+* In 2015, Ross Girshick built on R-CNN and made it computationally less expensive with *Fast-RCNN*:\
+[Fast R-CNN](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Girshick_Fast_R-CNN_ICCV_2015_paper.pdf), Girshick, 2015, ICCV, **3464 citations**\
 
 ### 2016
 
