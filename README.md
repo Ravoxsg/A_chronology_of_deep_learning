@@ -102,7 +102,7 @@ Nowadays this framework is outdated and object detection is mostly done via algo
 [Speech recognition with deep recurrrent neural networks](https://arxiv.org/pdf/1303.5778.pdf), Graves et al., 2013, Acoustics, speech and signal processing, **2296 citations**
 * Scene labeling with deep CNNs:\
 [Learning hierarchical features for scence labeling](https://hal-upec-upem.archives-ouvertes.fr/file/index/docid/742077/filename/farabet-pami-13.pdf), Farabet et al., 2013, IEEE Pattern Analysis and Machine Intelligence, **1451 citations**
-* Generalizing *dropout* with *DropConnect* for better generalization:\
+* Generalizing *dropout* with *DropConnect* for better regularization:\
 [Regularization of Neural Networks Using DropConnect](http://proceedings.mlr.press/v28/wan13.pdf), Wan et al., 2013, ICML, **1059 citations**
 
 ### 2014
